@@ -1,0 +1,33 @@
+D:\C-Source\Active\Gps_sample2008\GPS_Sample8\obj\Release\ResolveAssemblyReference.cache
+D:\C-Source\Active\Gps_sample2008\GPS_Sample8\bin\Release\GPS_Sample8.exe
+D:\C-Source\Active\Gps_sample2008\GPS_Sample8\bin\Release\GPS_Sample8.pdb
+D:\C-Source\Active\Gps_sample2008\GPS_Sample8\bin\Release\Microsoft.WindowsMobile.dll
+D:\C-Source\Active\Gps_sample2008\GPS_Sample8\bin\Release\Microsoft.WindowsMobile.Samples.Location.dll
+D:\C-Source\Active\Gps_sample2008\GPS_Sample8\bin\Release\Microsoft.WindowsMobile.Samples.Location.pdb
+D:\C-Source\Active\Gps_sample2008\GPS_Sample8\bin\Release\Microsoft.WindowsMobile.xml
+D:\C-Source\Active\Gps_sample2008\GPS_Sample8\obj\Release\GPS_Sample8.exe
+D:\C-Source\Active\Gps_sample2008\GPS_Sample8\obj\Release\GPS_Sample8.pdb
+D:\C-Source\Active\Gps_sample2008\GPS_Sample8\obj\Release\GpsTest.Form1.resources
+D:\C-Source\Active\Gps_sample2008\GPS_Sample8\obj\Release\GPS_Sample8.csproj.GenerateResource.Cache
+D:\Software Deverloper\GPS-MOBILE\New folder\GPS_Sample8\bin\Release\GPS_Sample8.exe
+D:\Software Deverloper\GPS-MOBILE\New folder\GPS_Sample8\bin\Release\GPS_Sample8.pdb
+D:\Software Deverloper\GPS-MOBILE\New folder\GPS_Sample8\bin\Release\Microsoft.WindowsMobile.dll
+D:\Software Deverloper\GPS-MOBILE\New folder\GPS_Sample8\bin\Release\Microsoft.WindowsMobile.Samples.Location.dll
+D:\Software Deverloper\GPS-MOBILE\New folder\GPS_Sample8\bin\Release\Microsoft.WindowsMobile.Samples.Location.pdb
+D:\Software Deverloper\GPS-MOBILE\New folder\GPS_Sample8\bin\Release\Microsoft.WindowsMobile.xml
+D:\Software Deverloper\GPS-MOBILE\New folder\GPS_Sample8\obj\Release\ResolveAssemblyReference.cache
+D:\Software Deverloper\GPS-MOBILE\New folder\GPS_Sample8\obj\Release\GpsTest.Form1.resources
+D:\Software Deverloper\GPS-MOBILE\New folder\GPS_Sample8\obj\Release\GPS_Sample8.csproj.GenerateResource.Cache
+D:\Software Deverloper\GPS-MOBILE\New folder\GPS_Sample8\obj\Release\GPS_Sample8.exe
+D:\Software Deverloper\GPS-MOBILE\New folder\GPS_Sample8\obj\Release\GPS_Sample8.pdb
+D:\A-GPS OK\GPS_Sample8\bin\Release\GPS_Sample8.exe
+D:\A-GPS OK\GPS_Sample8\bin\Release\GPS_Sample8.pdb
+D:\A-GPS OK\GPS_Sample8\bin\Release\Microsoft.WindowsMobile.dll
+D:\A-GPS OK\GPS_Sample8\bin\Release\Microsoft.WindowsMobile.Samples.Location.dll
+D:\A-GPS OK\GPS_Sample8\bin\Release\Microsoft.WindowsMobile.Samples.Location.pdb
+D:\A-GPS OK\GPS_Sample8\bin\Release\Microsoft.WindowsMobile.xml
+D:\A-GPS OK\GPS_Sample8\obj\Release\ResolveAssemblyReference.cache
+D:\A-GPS OK\GPS_Sample8\obj\Release\GpsTest.Form1.resources
+D:\A-GPS OK\GPS_Sample8\obj\Release\GPS_Sample8.csproj.GenerateResource.Cache
+D:\A-GPS OK\GPS_Sample8\obj\Release\GPS_Sample8.exe
+D:\A-GPS OK\GPS_Sample8\obj\Release\GPS_Sample8.pdb

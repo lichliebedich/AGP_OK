@@ -1,0 +1,11 @@
+D:\C-Source\Active\Gps_sample2008\GPS_Sample8\obj\Debug\ResolveAssemblyReference.cache
+D:\C-Source\Active\Gps_sample2008\GPS_Sample8\obj\Debug\GpsTest.Form1.resources
+D:\C-Source\Active\Gps_sample2008\GPS_Sample8\obj\Debug\GPS_Sample8.csproj.GenerateResource.Cache
+D:\C-Source\Active\Gps_sample2008\GPS_Sample8\bin\Debug\GPS_Sample8.exe
+D:\C-Source\Active\Gps_sample2008\GPS_Sample8\bin\Debug\GPS_Sample8.pdb
+D:\C-Source\Active\Gps_sample2008\GPS_Sample8\bin\Debug\Microsoft.WindowsMobile.dll
+D:\C-Source\Active\Gps_sample2008\GPS_Sample8\bin\Debug\Microsoft.WindowsMobile.Samples.Location.dll
+D:\C-Source\Active\Gps_sample2008\GPS_Sample8\bin\Debug\Microsoft.WindowsMobile.Samples.Location.pdb
+D:\C-Source\Active\Gps_sample2008\GPS_Sample8\bin\Debug\Microsoft.WindowsMobile.xml
+D:\C-Source\Active\Gps_sample2008\GPS_Sample8\obj\Debug\GPS_Sample8.exe
+D:\C-Source\Active\Gps_sample2008\GPS_Sample8\obj\Debug\GPS_Sample8.pdb

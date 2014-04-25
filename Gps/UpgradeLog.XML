@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Gps">
+</Property><Property Name="Solution File" Value="D:\C-Source\test\Gps\Gps.sln">
+</Property><Property Name="User Options File" Value="D:\C-Source\test\Gps\Gps.suo">
+</Property><Property Name="Date" Value="Dienstag, 28. April 2009">
+</Property><Property Name="Time" Value="19:00">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Gps.sln" Description="File successfully backed up as D:\C-Source\test\Gps\Backup\Gps.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Gps.suo" Description="File successfully backed up as D:\C-Source\test\Gps\Backup\Gps.suo">
+</Event><Event ErrorLevel="0" Project="GpsSample" Source="GpsSample\GpsSample.csproj" Description="Project file successfully backed up as D:\C-Source\test\Gps\Backup\GpsSample\GpsSample.csproj">
+</Event><Event ErrorLevel="0" Project="GpsSample" Source="GpsSample\GpsSample.csproj.user" Description="Project user file successfully backed up as D:\C-Source\test\Gps\Backup\GpsSample\GpsSample.csproj.user">
+</Event><Event ErrorLevel="0" Project="GpsSample" Source="GpsSample\CommAPI.cs" Description="File successfully backed up as D:\C-Source\test\Gps\Backup\GpsSample\CommAPI.cs">
+</Event><Event ErrorLevel="0" Project="GpsSample" Source="GpsSample\DCB.cs" Description="File successfully backed up as D:\C-Source\test\Gps\Backup\GpsSample\DCB.cs">
+</Event><Event ErrorLevel="0" Project="GpsSample" Source="GpsSample\EnumEx.cs" Description="File successfully backed up as D:\C-Source\test\Gps\Backup\GpsSample\EnumEx.cs">
+</Event><Event ErrorLevel="0" Project="GpsSample" Source="GpsSample\Form1.cs" Description="File successfully backed up as D:\C-Source\test\Gps\Backup\GpsSample\Form1.cs">
+</Event><Event ErrorLevel="0" Project="GpsSample" Source="GpsSample\Port.cs" Description="File successfully backed up as D:\C-Source\test\Gps\Backup\GpsSample\Port.cs">
+</Event><Event ErrorLevel="0" Project="GpsSample" Source="GpsSample\PortCapabilities.cs" Description="File successfully backed up as D:\C-Source\test\Gps\Backup\GpsSample\PortCapabilities.cs">
+</Event><Event ErrorLevel="0" Project="GpsSample" Source="GpsSample\PortSettings.cs" Description="File successfully backed up as D:\C-Source\test\Gps\Backup\GpsSample\PortSettings.cs">
+</Event><Event ErrorLevel="0" Project="GpsSample" Source="GpsSample\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\C-Source\test\Gps\Backup\GpsSample\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GpsSample" Source="GpsSample\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\C-Source\test\Gps\Backup\GpsSample\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GpsSample" Source="GpsSample\Registry.cs" Description="File successfully backed up as D:\C-Source\test\Gps\Backup\GpsSample\Registry.cs">
+</Event><Event ErrorLevel="0" Project="GpsSample" Source="GpsSample\SystemTime.cs" Description="File successfully backed up as D:\C-Source\test\Gps\Backup\GpsSample\SystemTime.cs">
+</Event><Event ErrorLevel="0" Project="GpsSample" Source="GpsSample\Form1.resx" Description="File successfully backed up as D:\C-Source\test\Gps\Backup\GpsSample\Form1.resx">
+</Event><Event ErrorLevel="0" Project="GpsSample" Source="GpsSample\Properties\Resources.resx" Description="File successfully backed up as D:\C-Source\test\Gps\Backup\GpsSample\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="GpsSample" Source="GpsSample\GpsSample.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GpsSample" Source="GpsSample\GpsSample.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Microsoft.WindowsMobile.Samples.Location" Source="Microsoft.WindowsMobile.Samples.Location.csproj" Description="Project file successfully backed up as D:\C-Source\test\Gps\Backup\Microsoft.WindowsMobile.Samples.Location.csproj">
+</Event><Event ErrorLevel="0" Project="Microsoft.WindowsMobile.Samples.Location" Source="Microsoft.WindowsMobile.Samples.Location.csproj.user" Description="Project user file successfully backed up as D:\C-Source\test\Gps\Backup\Microsoft.WindowsMobile.Samples.Location.csproj.user">
+</Event><Event ErrorLevel="0" Project="Microsoft.WindowsMobile.Samples.Location" Source="DegreesMinutesSeconds.cs" Description="File successfully backed up as D:\C-Source\test\Gps\Backup\DegreesMinutesSeconds.cs">
+</Event><Event ErrorLevel="0" Project="Microsoft.WindowsMobile.Samples.Location" Source="DeviceStateChangedEventArgs.cs" Description="File successfully backed up as D:\C-Source\test\Gps\Backup\DeviceStateChangedEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="Microsoft.WindowsMobile.Samples.Location" Source="GPS.cs" Description="File successfully backed up as D:\C-Source\test\Gps\Backup\GPS.cs">
+</Event><Event ErrorLevel="0" Project="Microsoft.WindowsMobile.Samples.Location" Source="GPSdevice.cs" Description="File successfully backed up as D:\C-Source\test\Gps\Backup\GPSdevice.cs">
+</Event><Event ErrorLevel="0" Project="Microsoft.WindowsMobile.Samples.Location" Source="GpsDeviceState.cs" Description="File successfully backed up as D:\C-Source\test\Gps\Backup\GpsDeviceState.cs">
+</Event><Event ErrorLevel="0" Project="Microsoft.WindowsMobile.Samples.Location" Source="GpsPosition.cs" Description="File successfully backed up as D:\C-Source\test\Gps\Backup\GpsPosition.cs">
+</Event><Event ErrorLevel="0" Project="Microsoft.WindowsMobile.Samples.Location" Source="LocationChangedEventArgs.cs" Description="File successfully backed up as D:\C-Source\test\Gps\Backup\LocationChangedEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="Microsoft.WindowsMobile.Samples.Location" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\C-Source\test\Gps\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Microsoft.WindowsMobile.Samples.Location" Source="Registry.cs" Description="File successfully backed up as D:\C-Source\test\Gps\Backup\Registry.cs">
+</Event><Event ErrorLevel="0" Project="Microsoft.WindowsMobile.Samples.Location" Source="Utils.cs" Description="File successfully backed up as D:\C-Source\test\Gps\Backup\Utils.cs">
+</Event><Event ErrorLevel="0" Project="Microsoft.WindowsMobile.Samples.Location" Source="Microsoft.WindowsMobile.Samples.Location.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Microsoft.WindowsMobile.Samples.Location" Source="Microsoft.WindowsMobile.Samples.Location.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Gps.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Gps.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GpsSample" Source="GpsSample\Form1.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="GpsSample" Source="GpsSample\Form1.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GpsSample" Source="GpsSample\Properties\Resources.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="GpsSample" Source="GpsSample\Properties\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GpsSample" Source="GpsSample\GpsSample.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Microsoft.WindowsMobile.Samples.Location" Source="Microsoft.WindowsMobile.Samples.Location.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,10 @@
+D:\Software Deverloper\GPS-MOBILE\New folder\Gps\bin\Release\Microsoft.WindowsMobile.Samples.Location.dll
+D:\Software Deverloper\GPS-MOBILE\New folder\Gps\bin\Release\Microsoft.WindowsMobile.Samples.Location.pdb
+D:\Software Deverloper\GPS-MOBILE\New folder\Gps\obj\Release\ResolveAssemblyReference.cache
+D:\Software Deverloper\GPS-MOBILE\New folder\Gps\obj\Release\Microsoft.WindowsMobile.Samples.Location.dll
+D:\Software Deverloper\GPS-MOBILE\New folder\Gps\obj\Release\Microsoft.WindowsMobile.Samples.Location.pdb
+D:\A-GPS OK\Gps\bin\Release\Microsoft.WindowsMobile.Samples.Location.dll
+D:\A-GPS OK\Gps\bin\Release\Microsoft.WindowsMobile.Samples.Location.pdb
+D:\A-GPS OK\Gps\obj\Release\ResolveAssemblyReference.cache
+D:\A-GPS OK\Gps\obj\Release\Microsoft.WindowsMobile.Samples.Location.dll
+D:\A-GPS OK\Gps\obj\Release\Microsoft.WindowsMobile.Samples.Location.pdb
